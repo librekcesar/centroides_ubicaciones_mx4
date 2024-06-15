@@ -1,0 +1,1 @@
+var json_centroide_ubicaciones_mx4_3 = {"type":"FeatureCollection","name":"centroide_ubicaciones_mx4_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"MEAN_X":-99.18332,"MEAN_Y":19.31573,"estacion":"CENTROIDE_MX4"},"geometry":{"type":"Point","coordinates":[-99.183324522916266,19.31572768928562]}}]}
